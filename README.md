@@ -4,11 +4,11 @@
 ### E-mail:plain_ji@163.com
 ****
 #### 功能
-播放音乐，支持MP3、WMA、WAV、MIDI
-电子书
-图片浏览
-文件浏览器
-系统设置
+播放音乐，支持MP3、WMA、WAV、MIDI  
+电子书  
+图片浏览  
+文件浏览器  
+系统设置  
 
 #### 效果展示
 ![001.png](https://github.com/PlainJi/MP3PlayerHardware/blob/master/%E6%88%90%E5%93%81%E5%9B%BE%E7%89%87/001.png)
