@@ -8,7 +8,14 @@
 ![003.png](https://github.com/PlainJi/MP3PlayerHardware/blob/master/%E6%88%90%E5%93%81%E5%9B%BE%E7%89%87/003.png)
 ![006.png](https://github.com/PlainJi/MP3PlayerHardware/blob/master/%E6%88%90%E5%93%81%E5%9B%BE%E7%89%87/006.png)
 ![002.jpg](https://github.com/PlainJi/MP3PlayerHardware/blob/master/%E6%88%90%E5%93%81%E5%9B%BE%E7%89%87/002.jpg)
-![004.jpg](https://github.com/PlainJi/MP3PlayerHardware/blob/master/%E6%88%90%E5%93%81%E5%9B%BE%E7%89%87/004.jpg)
+![004.jpg](https://github.com/PlainJi/MP3PlayerHardware/blob/master/%E6%88%90%E5%93%81%E5%9B%BE%E7%89%87/004.jpg)  
+![mp3.jpg](http://r.photo.store.qq.com/psb?/V11QrK0c2iSTgL/J.TEINVtVBF132CN5wnN81cy*izQJFts2Vok6lwSZmE!/r/dPqtXmUNHQAA)
+![paint.jpg](http://r.photo.store.qq.com/psb?/V11QrK0c2iSTgL/NcLln.m2NCyGva3uzPpN5akVM7RukeG0IjUCG5gUOC0!/r/dCKW72XwBAAA)
+![system.jpg](http://b170.photo.store.qq.com/psb?/V11QrK0c2iSTgL/s95FgzW*CJGZnT3hgOaydV9DzUzUJNAGpVs4OFGZdPc!/b/dC0vYGUFHwAA&bo=sADcAAAAAAABAEs!&rf=viewer_4)
+![broswer.jpg](http://b173.photo.store.qq.com/psb?/V11QrK0c2iSTgL/AmLlt2JKbVjv46C9nFtRxF9BXeCvj53mh1gB2MwY3OQ!/b/dJ1uJWc*BAAA&bo=sADcAAAAAAABAEs!&rf=viewer_4)
+![main.jpg](http://b171.photo.store.qq.com/psb?/V11QrK0c2iSTgL/aqKQHAbRsBFzIIUhszXXKQTDqBpZ8JZqZ0Wq0OomoEk!/b/dP827mWqBAAA&bo=sADcAAAAAAABAEs!&rf=viewer_4)
+![font.jpg](http://b170.photo.store.qq.com/psb?/V11QrK0c2iSTgL/e*4OMJv2rvSlCE3bHLksdFrxG9BJbXJ1iKL5pJWDObs!/b/dCT*VmU7HgAA&bo=sADcAAAAAAABAEs!&rf=viewer_4)
+![config.jpg](http://b171.photo.store.qq.com/psb?/V11QrK0c2iSTgL/zMrP17y*YRM5R39ZfMxyH9wzdDxg29AUWYmuiHryICM!/b/dHTo.2WVBAAA&bo=sADcAAAAAAABAEs!&rf=viewer_4)
 
 #### 硬件相关资料
 https://github.com/PlainJi/MP3PlayerHardware
