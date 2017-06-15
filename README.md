@@ -5,10 +5,10 @@
 ****
 #### 效果展示
 ![001.png](https://github.com/PlainJi/MP3PlayerHardware/blob/master/%E6%88%90%E5%93%81%E5%9B%BE%E7%89%87/001.png)
-![002.jpg](https://github.com/PlainJi/MP3PlayerHardware/blob/master/%E6%88%90%E5%93%81%E5%9B%BE%E7%89%87/001.png)
-![003.png](https://github.com/PlainJi/MP3PlayerHardware/blob/master/%E6%88%90%E5%93%81%E5%9B%BE%E7%89%87/001.png)
-![004.jpg](https://github.com/PlainJi/MP3PlayerHardware/blob/master/%E6%88%90%E5%93%81%E5%9B%BE%E7%89%87/001.png)
-![006.png](https://github.com/PlainJi/MP3PlayerHardware/blob/master/%E6%88%90%E5%93%81%E5%9B%BE%E7%89%87/001.png)
+![002.jpg](https://github.com/PlainJi/MP3PlayerHardware/blob/master/%E6%88%90%E5%93%81%E5%9B%BE%E7%89%87/002.jpg)
+![003.png](https://github.com/PlainJi/MP3PlayerHardware/blob/master/%E6%88%90%E5%93%81%E5%9B%BE%E7%89%87/003.png)
+![004.jpg](https://github.com/PlainJi/MP3PlayerHardware/blob/master/%E6%88%90%E5%93%81%E5%9B%BE%E7%89%87/004.jpg)
+![006.png](https://github.com/PlainJi/MP3PlayerHardware/blob/master/%E6%88%90%E5%93%81%E5%9B%BE%E7%89%87/006.png)
 
 #### 硬件相关资料
 https://github.com/PlainJi/MP3PlayerHardware
