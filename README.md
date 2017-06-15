@@ -44,24 +44,24 @@ mp3播放读取时间有时不稳定
 完成了FATFS的移植，经实测，读取速度为83kb/s(85504bytes/s,6ms读一个扇区，而32字节能支持多少？)  
 
 #### SPI FLSAHS规划
-GBK16_12.BIN			0x0 ~ 0x1474e0			大小：1340640bytes  
-ICO.BIN				0X148000 ~ 0x1661f0		大小：123376bytes  
-gImage_pause	3872  
-gImage_play		3872  
-gImage_exit		2048  
-gImage_list		2048  
-gImage_pre		2048  
-gImage_next		2048  
-gImage_music	5000  
-gImage_ebook	5000  
-gImage_picture	5000  
-gImage_browser	5000  
-gImage_attach	5000  
-gImage_sys		5000  
-gImage_BackWhite77440  
+GBK16_12.BIN      0x0 ~ 0x1474e0        大小：1340640bytes  
+ICO.BIN				    0X148000 ~ 0x1661f0   大小：123376bytes  
+gImage_pause      3872  
+gImage_play       3872  
+gImage_exit       2048  
+gImage_list       2048  
+gImage_pre        2048  
+gImage_next       2048  
+gImage_music      5000  
+gImage_ebook      5000  
+gImage_picture    5000  
+gImage_browser    5000  
+gImage_attach     5000  
+gImage_sys        5000  
+gImage_BackWhite  77440  
 
 #### TFT 规划
-              12×12                          16×16  
+12×12                                    16×16  
 横向 176 12×14=168……8(29个余2)         16×11=176……0(22个)  
 纵向 220 12×18=216……4()                16×13=208……12  
 全篇共252个汉字                         全篇共143个汉字  
