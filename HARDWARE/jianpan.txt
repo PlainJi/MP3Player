@@ -1,0 +1,5 @@
+sbit mode=P5^3;
+sbit vol=P4^7;
+sbit enter=P4^3;
+sbit next=P5^2;
+sbit back=P1^4;
