@@ -3,6 +3,13 @@
 ### Author:Plain Ji
 ### E-mail:plain_ji@163.com
 ****
+#### 效果展示
+![001.png](https://github.com/PlainJi/MP3PlayerHardware/blob/master/%E6%88%90%E5%93%81%E5%9B%BE%E7%89%87/001.png)
+![002.jpg](https://github.com/PlainJi/MP3PlayerHardware/blob/master/%E6%88%90%E5%93%81%E5%9B%BE%E7%89%87/001.png)
+![003.png](https://github.com/PlainJi/MP3PlayerHardware/blob/master/%E6%88%90%E5%93%81%E5%9B%BE%E7%89%87/001.png)
+![004.jpg](https://github.com/PlainJi/MP3PlayerHardware/blob/master/%E6%88%90%E5%93%81%E5%9B%BE%E7%89%87/001.png)
+![006.png](https://github.com/PlainJi/MP3PlayerHardware/blob/master/%E6%88%90%E5%93%81%E5%9B%BE%E7%89%87/001.png)
+
 #### 硬件相关资料
 https://github.com/PlainJi/MP3PlayerHardware
 
@@ -10,6 +17,7 @@ https://github.com/PlainJi/MP3PlayerHardware
 焊接TFT前，先在FPC粘上3M胶，同时在tft面板上粘上3M胶  
 MP3播放背景图片尺寸（176x132）  
 MP3工作门槛电压设置为3.40V（再3.3V左右会出现播放卡顿现象，机器已经不能正常工作）  
+已经编译好的HEX文件可以直接下载使用：https://github.com/PlainJi/MP3Player/blob/master/OBJ/MP3_PLAYER.hex
 
 #### 遗留问题
 MP3音量调节过于灵敏  
